@@ -13,4 +13,4 @@ Both of these libraries do all the heavy-lifting using fully multi-threaded high
 
 Currently there is only one visualization:
 
-* [Successful Orbital Launches per Year and per Country]()
+* [Successful Orbital Launches per Year and per Country](https://github.com/mmomtchev/data-is-beautiful/tree/main/orbital-launches)
