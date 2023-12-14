@@ -93,7 +93,7 @@ function drawLegend(image: Magick.Image) {
       new Magick.DrawableFont('sans-serif', MagickCore.AnyStyle, 200, MagickCore.AnyStretch),
       new Magick.DrawablePointSize(pointSize / 6),
       new Magick.DrawableStrokeColor('transparent'),
-      new Magick.DrawableFillColor('black'),
+      new Magick.DrawableFillColor(conf.color),
       new Magick.DrawableText(width * 0.75, (line++) * height / 30, conf.label)
     ]);
   }
