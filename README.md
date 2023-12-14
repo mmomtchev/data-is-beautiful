@@ -15,4 +15,4 @@ Currently there is only one visualization:
 
 * [Successful Orbital Launches per Year and per Country](https://github.com/mmomtchev/data-is-beautiful/tree/main/orbital-launches)
 
-![Imgur](https://i.imgur.com/uAr4L4a.gif)
+![Imgur](https://i.imgur.com/WiQrygD.gif)
