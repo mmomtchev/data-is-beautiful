@@ -30,3 +30,7 @@
   ```
 
   to produce `data/animation.mp4`
+
+## Result
+
+![Imgur](https://i.imgur.com/uAr4L4a.gif)
