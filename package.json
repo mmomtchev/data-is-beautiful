@@ -1,0 +1,35 @@
+{
+  "name": "data-is-beautiful",
+  "version": "1.0.0",
+  "description": "Collection of data visualizations in Node.js for r/dataisbeautiful",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmomtchev/data-is-beautiful.git"
+  },
+  "keywords": [
+    "r/dataisbeautiful",
+    "Node.js",
+    "ImageMagick",
+    "ffmpeg"
+  ],
+  "author": "Momtchil Momtchev <momtchil@momtchev.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmomtchev/data-is-beautiful/issues"
+  },
+  "homepage": "https://github.com/mmomtchev/data-is-beautiful#readme",
+  "devDependencies": {
+    "@types/node": "^20.10.4",
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "@mmomtchev/ffmpeg": "^0.9.0",
+    "async-await-queue": "^2.1.4",
+    "cheerio": "^1.0.0-rc.12",
+    "magickwand.js": "^1.0.0-beta.6"
+  }
+}
