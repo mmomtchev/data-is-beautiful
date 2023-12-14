@@ -30,6 +30,6 @@
     "@mmomtchev/ffmpeg": "^0.9.0",
     "async-await-queue": "^2.1.4",
     "cheerio": "^1.0.0-rc.12",
-    "magickwand.js": "^1.0.0-beta.6"
+    "magickwand.js": "^1.0.0"
   }
 }
