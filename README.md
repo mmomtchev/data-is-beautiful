@@ -9,7 +9,7 @@ It is meant both as a tutorial for creating visualizations in JavaScript (and Ty
 
 They are very-well suited for scientific visualizations and offer a rare high-level language alternative to the currently existing Python-based tools.
 
-Both of these libraries do all the heavy-lifting using fully multi-threaded high-performance C++/ASM SIMD code, while offering a very easy-to-use high-level JavaScript and TypeScript API.
+Both of these libraries do all the heavy lifting using fully multi-threaded high-performance C++/ASM SIMD code, while offering a very easy-to-use high-level JavaScript and TypeScript API.
 
 Currently there is only one visualization:
 
