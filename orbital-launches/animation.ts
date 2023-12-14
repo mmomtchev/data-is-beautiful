@@ -90,7 +90,7 @@ function drawLegend(image: Magick.Image) {
     if (labels.includes(conf.label)) continue;
     labels.push(conf.label);
     image.draw([
-      new Magick.DrawableFont('sans-serif', MagickCore.AnyStyle, 200, MagickCore.AnyStretch),
+      new Magick.DrawableFont('sans-serif', MagickCore.NormalStyle, 800, MagickCore.NormalStretch),
       new Magick.DrawablePointSize(pointSize / 6),
       new Magick.DrawableStrokeColor('transparent'),
       new Magick.DrawableFillColor(conf.color),
